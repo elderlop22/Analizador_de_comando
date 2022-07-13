@@ -1,0 +1,7 @@
+[Desktop Entry]    
+Name=Analizador de comando   
+Exec=start.sh   
+Comment=Analizador de comandodesarrollado en Python, por Elder López Chavarría  
+Terminal=false    
+Icon=escudo-nuevo.png   
+Type=Application
